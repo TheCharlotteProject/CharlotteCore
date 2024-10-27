@@ -1,6 +1,11 @@
 #![no_std]
 #![no_main]
 #![warn(missing_copy_implementations)]
+<<<<<<< Updated upstream
+=======
+#![feature(step_trait)]
+#![feature(allocator_api)]
+>>>>>>> Stashed changes
 
 use core::fmt::Write;
 use core::panic::PanicInfo;
