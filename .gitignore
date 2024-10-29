@@ -2,7 +2,6 @@
 ovmf-aarch64
 ovmf-riscv64
 ovmf-x86_64
-charlotte_core/target/**
+kernel/target/**
 log.txt
 limine
-.idea
